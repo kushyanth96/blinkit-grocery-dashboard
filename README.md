@@ -4,4 +4,4 @@ The Dashboard was built using the Following tools and Technologies:
 Power BI Desktop- Main data visualization platform used for report creation
 Power Query- DataTransformations and cleaning and reshaping and preparation of data
 DAX(Data Analysis Expression)-used for Calculated Measures and Calculated Columns,dynamic visuals and conditional logic.
-File Format-.pbix for development and .png for dashboard previews.
+
